@@ -1,0 +1,16 @@
+/**
+* @name Newcord
+* @author ₊˚ʚ 𝓂𝓊𝓊𝓌
+* @version 0.0.1
+* @description A colorful theme inspired by the first page of Discord's website.
+* @source https://github.com/kaiidoo/Newcord
+* @authorId 789168545488699403
+**/
+
+@import url(https://kaiidoo.github.io/Newcord/src/main.css);
+
+@import url(https://nyri4.github.io/Discolored/main.css);
+@import url(https://kaiidoo.github.io/Newcord/_res/stuff/assets.css);
+@import url(https://kaiidoo.github.io/Newcord/_res/stuff/icons.css);
+@import url(https://kaiidoo.github.io/Newcord/_res/stuff/colors/basic.colors.css);
+@import url(https://kaiidoo.github.io/Newcord/_res/stuff/paddingWindow);
