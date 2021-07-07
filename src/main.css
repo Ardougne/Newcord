@@ -248,7 +248,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     color: var(--green);
 }
 #status-picker-online.focused-3afm-j {
-    background-color: var(--green2);
+    background-color: var(--green4);
 }
 /* ---- Idle ---- */
 [mask*="url(#svg-mask-status-idle)"],
@@ -264,7 +264,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     color: var(--yellow);
 }
 #status-picker-idle.focused-3afm-j {
-    background-color: var(--yellow2);
+    background-color: var(--yellow4);
 }
 /* ---- Do Not Disturb ---- */
 [mask*="url(#svg-mask-status-dnd)"],
@@ -280,7 +280,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     color: var(--red);
 }
 #status-picker-dnd.focused-3afm-j {
-    background-color: var(--red2);
+    background-color: var(--red4);
 }
 /* ---- Invisible ---- */
 [mask*="url(#svg-mask-status-offline)"],
@@ -292,7 +292,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     color: #99aab5;
 }
 #status-picker-invisible.focused-3afm-j {
-    background-color: #99aab52a;
+    background-color: #97a9b42b;
 }
 /* ---- Custom ---- */
 .customEmojiPlaceholder-37iZ_j {
@@ -303,7 +303,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     color: #ffcc4d;
 }
 #status-picker-custom-status.focused-3afm-j {
-    background-color: #ffcc4d2a;
+    background-color: #ffcc4d2b;
 }
 /* ---- Streaming ---- */
 [mask="url(#svg-mask-status-streaming)"],
@@ -1255,7 +1255,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     background-color: var(--red);
 }
 .bd-button.bd-button-danger:hover {
-    background-color: var(--redC);
+    background-color: var(--red1);
 }
 .bd-controls > .bd-addon-button:last-of-type {
     border-radius: 0 5px 5px 0;
