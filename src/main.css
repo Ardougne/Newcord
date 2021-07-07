@@ -1270,7 +1270,7 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     background-color: var(--red);
 }
 .bd-button.bd-button-danger:hover {
-    background-color: var(--red1);
+    background-color: var(--red2);
 }
 .bd-controls > .bd-addon-button:last-of-type {
     border-radius: 0 5px 5px 0;
