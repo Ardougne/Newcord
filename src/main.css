@@ -368,6 +368,11 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     --scrollbar-auto-track: transparent;
 }
 
+/* ---- Add phone number ---- */
+.theme-dark .popoutList-T9CKZQ {
+    background-color: var(--background-primary);
+}
+
 /* ------------------------------------------------------------ 🌿 CHANNEL ------------------------------------------------------------ */
 
 /* ---- Guild Header Popout ---- */
