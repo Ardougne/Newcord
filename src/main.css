@@ -196,7 +196,9 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
 .theme-dark .container-1D34oG {
     background-color: var(--background-primary);
 }
-.peopleListItem-2nzedh {
+.peopleListItem-2nzedh,
+.actions-1SQwjn,
+.actions-1SQwjn .actionButton-uPB8Fs {
     transition: 0.25s;
 }
 
