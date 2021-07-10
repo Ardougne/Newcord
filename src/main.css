@@ -374,6 +374,9 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
 .theme-dark .popoutList-T9CKZQ {
     background-color: var(--background-primary);
 }
+.theme-dark .input-3yHnCz {
+    background-color: var(--background-accent);
+}
 
 /* ------------------------------------------------------------ 🌿 CHANNEL ------------------------------------------------------------ */
 
