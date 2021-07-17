@@ -1362,3 +1362,8 @@ path[d="M7.02799 0.333252C3.346 0.333252 0.361328 3.31792 0.361328 6.99992C0.361
 .theme-dark .verificationBlock-1Chfpc:hover {
     background-color: var(--background-tertiary);
 }
+
+/* ---- Code ---- */
+.theme-dark .markdown-11q6EU code {
+    background-color: var(--background-secondary);
+}
