@@ -1323,7 +1323,8 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
 
 /* ---- Select Lists ---- */
 .css-3vaxre-menu,
-.css-1x99fvh-menu {
+.css-1x99fvh-menu,
+.css-dwar6a-menu {
     background-color: var(--background-secondary);
     border-top: none;
     border-color: rgba(0, 0, 0, 0.6);
@@ -1334,7 +1335,11 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
 .css-6fzn47-control,
 .css-6fzn47-control:hover,
 .css-gvi9bl-control,
-.css-gvi9bl-control:hover {
+.css-gvi9bl-control:hover,
+.css-1yz4bi9-option,
+.css-1yz4bi9-option:hover,
+.css-rzbxvl-option,
+.css-rzbxvl-option:hover {
     background-color: var(--background-secondary);
     transition: ease-out 0.25s;
 }
