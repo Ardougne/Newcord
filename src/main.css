@@ -791,6 +791,11 @@ button:not(.searchBarComponent-32dTOx):not(.colorPickerSwatch-5GX3Ve):not(.bd-bu
     background-color: var(--background-secondary);
 }
 
+/* ---- Everyone Warning Pop-up */
+.theme-dark .contentWarningPopout-n5JsIs {
+    background-color: var(--background-primary);
+}
+
 /* ---- Others ---- */
 /* Favorite GIF */
 .gifFavoriteButton-3Zycl7:hover {
