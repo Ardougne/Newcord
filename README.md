@@ -1,14 +1,13 @@
-# Newcord [![Download][download-badge]][download-link] [![Buy Me A Coffee][coffee-badge]][coffee-link] [![Support][support-badge]][discord-link] [![Patreon][patreon-badge]][patreon-link] [![Discord][discord-badge]][discord-link]
+# Newcord [![Download][download-badge]][download-link] [![Buy Me A Coffee][coffee-badge]][coffee-link] [![Support][support-badge]][support-link] [![Patreon][patreon-badge]][patreon-link]
 
 [download-badge]: https://kaiidoo.github.io/Newcord/icons/github/download.svg
 [coffee-badge]: https://kaiidoo.github.io/Newcord/icons/github/coffee.svg
 [support-badge]: https://kaiidoo.github.io/Newcord/icons/github/support.svg
 [patreon-badge]: https://kaiidoo.github.io/Newcord/icons/github/patreon.svg
-[discord-badge]: https://kaiidoo.github.io/Newcord/icons/github/discord.svg
 [download-link]: https://kaiidoo.github.io/Newcord/src/newcord.theme.css
 [coffee-link]: https://www.buymeacoffee.com/kaiidoo
+[support-link]: https://github.com/Kaiidoo/Newcord/issues
 [patreon-link]: https://patreon.com/kaiidoo
-[discord-link]: https://discord.gg/eBxJd7xv9u
 
 A colorful and customizable BetterDiscord theme inspired by the first page of Discord's website.
 
@@ -27,7 +26,7 @@ If you need a more detailed guide here's one for Windows and one for macOS:
 
 Coming soon, sorry . . .
 
-![Calendar](https://kaiidoo.github.io/Newcord/icons/github/calendar.svg) It should come around September 2021. If you want to be notified when the customization guide is there, you can join the [Newcord Discord server][discord-link].
+![Calendar](https://kaiidoo.github.io/Newcord/icons/github/calendar.svg) It should come around September 2021.
 
 ## Features to come
 

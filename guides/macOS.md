@@ -3,7 +3,7 @@
 [download-badge]: https://kaiidoo.github.io/Newcord/icons/github/download.svg
 [download-link]: https://kaiidoo.github.io/Newcord/src/newcord.theme.css
 [support-badge]: https://kaiidoo.github.io/Newcord/icons/github/support.svg
-[support-link]: https://discord.com
+[support-link]: https://github.com/Kaiidoo/Newcord/issues
 
 First of all, go on this [page](https://kaiidoo.github.io/Newcord/src/newcord.theme.css), right-click, click "save as" and save it wherever you want ( In the downloads folder for example. What matters is that you can find it ).
 
@@ -21,4 +21,4 @@ And there you are! Now all you need to do is activate the theme by clicking on t
 
 ![Screenshot4](https://imgur.com/ybGPHyF.png)
 
-### Hope that you will have a happy and colorful time with Newcord!
+### Hope that you will have a happy and _cOloRfuL_ time with Newcord!
