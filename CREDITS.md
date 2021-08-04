@@ -6,10 +6,10 @@ The "Calendar", "Coffee", "Discord", "Download", "Heart", "Patreon" and "Support
 
 ## Icons used in Discord Settings
 
-The "Identification Documents", "Bank Cards", "Picture in Picture" and "Themes" icons are from [iOS Glyphs](https://icons8.com/icons/ios-glyphs) and [Material Filled](https://icons8.com/icons/material) by [Icons8](https://icons8.com).
+The "Bank Cards", "Picture in Picture" and "Themes" icons are from [iOS Glyphs](https://icons8.com/icons/ios-glyphs) and [Material Filled](https://icons8.com/icons/material) by [Icons8](https://icons8.com).
 
 The "Keybinds", "Advanced", "Custom CSS", "Plugins", "Plugin Repo", "Experiments" and "Developer Options" icons are from [Settings Icons](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/_res/svgs/settingsicons) by [Mirco Wittrien / DevilBro](https://mwittrien.github.io).
 
-## Icons used in the file explorer of the Installation Guides
+## Icons used in the file explorers of the Installation Guides
 
-The ""
+All icons from the file explorers of the Installation Guides are from [Fluency Systems Regular](https://icons8.com/icons/fluency-systems-regular) by [Icons8](https://icons8.com).
